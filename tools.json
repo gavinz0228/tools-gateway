@@ -1,0 +1,17 @@
+[
+    {
+        "name": "KTV Creator",
+        "description": "A tool to remove the vocal of a youtube video which then can be used for kareoke.",
+        "link": "#"
+    },
+    {
+        "name": "Video to Text",
+        "description": "A tool to extract the text of a tiktok video by given a link to the tiktok video.",
+        "link": "#"
+    },
+    {
+        "name": "Cloned Voice Text to Speech",
+        "description": "A tool to convert text to speech using a cloned voice.",
+        "link": "#"
+    }
+]
