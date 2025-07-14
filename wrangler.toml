@@ -1,2 +1,2 @@
-assets = { directory = "./", binding = "ASSETS", html_handling = "force-trailing-slash", not_found_handling = "404-page" }
+assets = { directory = "./public", binding = "ASSETS", html_handling = "force-trailing-slash", not_found_handling = "404-page" }
 
